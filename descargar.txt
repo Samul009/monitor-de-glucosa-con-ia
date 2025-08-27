@@ -1,0 +1,7 @@
+npm install react-native-chart-kit
+npm install react-native-svg
+npm install expo-clipboard
+npm install @react-native-community/datetimepicker
+npm list react-native-paper
+npx expo install expo-sharing
+npm install react-native-walkthrough-tooltip
