@@ -1,4 +1,4 @@
-const API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent";
+const API_URL = 
 const API_KEY = "AIzaSyDiNLycjfhyGMVlttDt-O30hNYu8Rbr-sY"; 
 
 export async function sendMessageToAI(message, conversationHistory, chatMode = 'general') {
