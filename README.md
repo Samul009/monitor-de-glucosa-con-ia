@@ -1,20 +1,54 @@
-# Expo Router Example
+# 🧠 AI Health Tracker
 
-Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native navigation using files in the `app/` directory.
+Aplicación móvil enfocada en el monitoreo de salud personal mediante el uso de inteligencia artificial. Permite llevar un control de niveles de glucosa, presión arterial y alimentación, ofreciendo recomendaciones inteligentes basadas en los datos del usuario.
 
-## 🚀 How to use
+---
 
-```sh
-npx create-expo-app -e with-router
-```
+## 🚀 Características
 
-## Deploy
+- 📊 Registro de niveles de glucosa
+- ❤️ Seguimiento de presión arterial
+- 🍎 Control de alimentos consumidos
+- 🤖 Recomendaciones alimenticias con IA
+- 📈 Visualización de datos históricos
+- 🧾 Generación de reportes de salud
 
-Deploy on all platforms with Expo Application Services (EAS).
+---
 
-- Deploy the website: `npx eas-cli deploy` — [Learn more](https://docs.expo.dev/eas/hosting/get-started/)
-- Deploy on iOS and Android using: `npx eas-cli build` — [Learn more](https://expo.dev/eas)
+## 🧠 Inteligencia Artificial
 
-## 📝 Notes
+La aplicación integra modelos de IA para:
+- Analizar patrones en los datos del usuario
+- Generar recomendaciones personalizadas
+- Sugerir mejoras en hábitos alimenticios
 
-- [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
+---
+
+## 🛠️ Tecnologías utilizadas
+
+- Frontend: (React Native / Flutter / etc)
+- Backend: (FastAPI / Node.js / etc)
+- Base de datos: (MySQL / Firebase / etc)
+- IA: (Google AI / Gemini API / etc)
+
+---
+
+## 📱 Objetivo del proyecto
+
+Este proyecto busca ayudar a las personas a:
+- Tener un mejor control de su salud
+- Prevenir riesgos relacionados con la glucosa y presión arterial
+- Mejorar sus hábitos alimenticios mediante tecnología
+
+---
+
+## ⚠️ Nota
+
+Esta aplicación es un prototipo académico y no reemplaza el diagnóstico médico profesional.
+
+---
+
+## 👨‍💻 Autor
+
+Samuel Giron Heredia  
+Estudiante de Ingeniería en Telecomunicaciones e Informática
